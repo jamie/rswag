@@ -6,6 +6,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 ### Added
+
+- Examples in responses [#330](https://github.com/rswag/rswag/pull/330)
+
 ### Changed
 ### Deprecated
 ### Removed
